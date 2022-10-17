@@ -1,0 +1,1 @@
+// Write a C program to declare two integer variables and set values 10 and 20 respectively. Now print the second

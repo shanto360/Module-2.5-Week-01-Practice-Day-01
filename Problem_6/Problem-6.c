@@ -4,8 +4,9 @@ int main()
 {
     int a;
     printf("simple input: ");
-    scanf("%d%c", &a);
+  char b;
+    scanf("%d%c", &a,&b);
     printf("simple output: ");
-    scanf("%d", a);
+    printf("%d", a);
     return 0;
 }
